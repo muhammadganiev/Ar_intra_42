@@ -1,2 +1,2 @@
 # Ar_intra_42
-Make easy your life with Ar_intra_42
+Save your time with Ar_intra_42
